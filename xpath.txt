@@ -1,0 +1,3 @@
+Links = $x('//a[@class = "image page-link"]/@href')
+Title = $x('//div[@class = "title"]/h1/text()')
+Body = $x('//div[@class = "paragraphs"]/p[not(@class)]/node()')
