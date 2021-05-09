@@ -1,0 +1,30 @@
+Con OfflinePedia, contenido educativo llega a zonas rurales
+
+Un camino empedrado, que empieza en Cotacachi, en Imbabura, conduce a San Pedro, comunidad ubicada en el cerro del volcán. Allí,   solo el 10% de unos 800 habitantes tiene una computadora e Internet, básicos para la educación en medio de la pandemia.En la casa de Jennifer Inga hay cuatro estudiantes. Sus hermanos de 17, 12 y 8 años y ella, de 15. Aunque les envían deberes por WhatsApp, necesitan hacer consultas por Internet. Por eso, su plan es aprender a construir una computadora para su familia, funcional y de bajo costo, como la que ha usado en las últimas semanas en un taller al que asiste en la escuela de su comunidad. 
+
+Los pobladores lo ven como la opción para sobrellevar la suspensión de clases presenciales. En la Unidad Educativa Intercultural Bilingüe Nazacota Puento se desarrollan los talleres de OfflinePedia. Un grupo de voluntarios  enseña  a construir computadores con componentes electrónicos obsoletos y a colocarles contenido sin necesidad de Internet. 
+
+La iniciativa surgió en el 2018, recuerda Joshua Salazar, líder del proyecto. Pero este año cobra importancia. Desde marzo, 4,4 millones de alumnos han tenido que quedarse en sus casas. Han sido útiles las herramientas virtuales, de las que no disponen los hogares de zonas rurales. 
+
+Ante eso, en una primera fase de acciones para reducir la brecha digital, con énfasis en el área rural y en casos de rezago escolar, el Gobierno espera llegar a 350 000 estudiantes, informó la ministra de Educación, Monserrat Creamer. 
+
+Con Microsoft hacen un pilotaje en Chimborazo, para TV White Spaces, que emplearía espacios no usados de la señal. La televisión se convertiría en un dispositivo para acceder a conectividad, adelanta. Además con CNT y Mintel instalan acceso wifi en escuelas rurales, con 3 km de cobertura, y buscan cerrar brechas.
+
+Por eso, la Ministra opina que proyectos como OfflinePedia son muy prácticos. 
+
+En cinco comunidades rurales más de Imbabura, Pichincha, Carchi y Pastaza,  790 personas se han beneficiado de la iniciativa. Y otras 200 se sumarán en San Pedro, Cotacachi. 
+
+Allí ya enseñaron lo básico de Office. Ahora capacitan en programación a estudiantes, exalumnos y padres de la comunidad. Luego viene el módulo de instalación de programas y aprenderán a crear una OfflinePedia desde cero, con contenido para estudiar. 
+
+Lo primero es la recolección de televisores y computadoras antiguos de las que se puedan extraer componentes, explica Joshua. Los juntan gracias a donaciones en la fundación Juntos Leemos, en Cotacachi. 
+
+El principal componente es una placa llamada Raspberry, en donde se almacena todo el contenido descargado. El costo promedio por computadora es de USD 100, que Joshua y sus compañeros, alumnos y exalumnos de Yachay, autogestionan. Mientras, la comunidad los alimenta y aloja. 
+
+Segundo De la Torre, rector (e) en San Pedro, dice que  buscarán más computadoras dadas de baja. Ese es un plan, mientras esperan conocer si formarán parte del  piloto de retorno progresivo a las aulas. La falta de tecnología ha hecho que un 98% de padres pida una vuelta presencial. 
+
+A Humberto Farinango le preocupa que sin Internet en casa, sus tres hijas de 12, 7 y 4 años no aprendan como antes de la pandemia. Por eso va a los talleres junto a la mayor. “No tenía idea de que con un televisor viejo se podía construir una computadora. Con mi hija vimos datos de otros países y estamos leyendo un libro”. 
+
+La OfflinePedia lleva contenido descargado de la Wikipedia, Wikiviajes, Wikilibros, Wikiversidad y cursos gratuitos de aprendizaje. También cuenta con cerca de 45 000 libros de literatura universal y con juegos interactivos que enseñan conceptos básicos de física, química y matemática. 
+
+En otras comunidades, las ‘compus’ se han destinado a lugares de acceso público como casas comunales o escuelas unidocentes sin Internet.  
+En San Pedro no hay contagiados de covid-19, señala Germán Farinango, miembro del Cabildo. Pero, para evitar reuniones, se entregarán las computadoras a través de un mecanismo de becas para alumnos destacados del taller. “Proyectos así son pertinentes ahora, implican un manejo sostenible de recursos y promueven la apropiación de la tecnología a poblaciones desplazadas”, opina Diego Apolo, especialista en políticas inclusivas de tecnología, educación y comunicación. “Es urgente el vínculo entre academia y comunidad, pero hace falta que el Ministerio apoye estas ideas que trascienden de la visión urbana de la tecnología”.

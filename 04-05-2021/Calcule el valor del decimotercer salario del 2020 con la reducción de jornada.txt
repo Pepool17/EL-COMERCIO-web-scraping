@@ -1,0 +1,7 @@
+Calcule el valor del decimotercer salario del 2020 con la reducción de jornada
+
+En diciembre, los trabajadores en relación de dependencia, jubilados y pensionistas alimenticios recibirán su decimotercero o bono navideño. Aunque este 2020, hay trabajadores que recibirán menos debido a las reducciones salariales que se han efectuado durante la pandemia.Para el pago de este décimo se toma en cuenta la remuneración básica, comisiones y otros beneficios adicionales. Se suma todas las remuneraciones recibidas, desde diciembre del 2019 hasta el 30 de noviembre del 2020, y se divide para 12. 
+
+En este año hay que tomar en cuenta para el cálculo si el empleado tuvo ajustes salariales en abril pasado por la reducción de la jornada laboral contemplada en el acuerdo ministerial 077 y, en agosto con la reducción emergente establecida en la Ley Humanitaria. 
+
+En algunos casos este bono se paga mensualmente, pero en caso de que el trabajador reciba acumulado, se debe cancelar hasta el 24 de diciembre, según el Ministerio de Trabajo.EL COMERCIO DATA desarrolló una herramienta que le permitirá saber el valor a recibir el siguiente mes. 

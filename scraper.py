@@ -11,20 +11,13 @@ XPATH_BODY_A = '//div[@class = "paragraphs"]/p[not(@class)]/a/text()'
 XPATH_BODY_B = '//div[@class = "paragraphs"]/p[not(@class)]/b/text()'
 XPATH_BODY_I = '//div[@class = "paragraphs"]/p[not(@class)]/i/text()'
 
-
-def line_break(x):
-    if x[-1:] == '.':
-        return x + '\n'
-    return x
-
-
 def parse_notice(link, today):
     try:
         response = requests.get(link)
         if response.status_code == 200:
             notice = response.content.decode('utf-8')
             parsed = html.fromstring(notice)
-
+            
             try:
                     title = parsed.xpath(XPATH_TITLE)[0]
                     title = title.replace('\"', '')
@@ -55,7 +48,7 @@ def parse_notice(link, today):
                                 full_body.append('\n')
                         else:
                             full_body.append(strings)
-                    #full_body = list (map(line_break, full_body))
+                    
             except IndexError:
                 return
             
@@ -79,7 +72,8 @@ def parse_home():
             parsed = html.fromstring(home)
             links_to_notice = parsed.xpath(XPATH_LINK_TO_ARTICLE)
             links_to_notice = list(filter(lambda x: x[0] == '/', links_to_notice))
-
+            for a in links_to_notice:
+                print(a)
             today = datetime.date.today().strftime('%d-%m-%Y')
             if not os.path.isdir(today):
                 os.mkdir(today)
